@@ -1,0 +1,1074 @@
+[
+  {
+    "id": "DOG-UUID-001",
+    "name": "Buddy",
+    "breed": "Golden Retriever",
+    "date_of_birth": "2020-05-15",
+    "age_years": 4,
+    "gender": "Male",
+    "color": ["Golden", "Cream"],
+    "size": "Large",
+    "weight_kg": 32.5,
+    "image_url": "https://images.happypet.care/images/20810/-golden-retriever-in-garden.webp",
+    "description": "Friendly and energetic, loves to play fetch. Well-socialized with other dogs and children.",
+    "microchip_id": "985112000000123",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-06-01",
+        "next_due_date": "2026-06-01"
+      },
+      {
+        "vaccine_name": "DHPP",
+        "date_administered": "2023-07-10",
+        "next_due_date": "2024-07-10"
+      }
+    ],
+    "temperament": ["Friendly", "Playful", "Intelligent", "Gentle"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Barks when visitors arrive, but quickly settles down.",
+      "Good on leash."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-XYZ",
+      "name": "Jane Doe",
+      "contact_email": "jane.doe@example.com",
+      "contact_phone": "555-123-4567"
+    },
+    "registration_date": "2020-08-01T10:00:00Z",
+    "last_updated_date": "2024-05-20T14:30:00Z"
+  },
+  {
+    "id": "DOG-UUID-002",
+    "name": "Lucy",
+    "breed": "Beagle",
+    "date_of_birth": "2022-01-10",
+    "age_years": 2,
+    "gender": "Female",
+    "color": ["Tricolor (Black, White, Brown)"],
+    "size": "Medium",
+    "weight_kg": 10.2,
+    "image_url": "https://www.akc.org/wp-content/uploads/2021/01/Beagle-puppy-standing-in-the-grass-1.jpeg",
+    "description": "Curious and cheerful, loves sniffing everything on walks.",
+    "microchip_id": "985112000000456",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-02-15",
+        "next_due_date": "2026-02-15"
+      }
+    ],
+    "temperament": ["Curious", "Friendly", "Energetic"],
+    "known_allergies": ["Chicken"],
+    "behavioral_notes": [
+      "Can be vocal when excited.",
+      "Responds well to treat-based training."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-ABC",
+      "name": "John Smith",
+      "contact_email": "john.smith@example.com",
+      "contact_phone": "555-987-6543"
+    },
+    "registration_date": "2022-03-01T11:00:00Z",
+    "last_updated_date": "2024-06-01T09:15:00Z"
+  },
+  {
+    "id": "DOG-UUID-003",
+    "name": "Max",
+    "breed": "German Shepherd",
+    "date_of_birth": "2019-11-20",
+    "age_years": 4,
+    "gender": "Male",
+    "color": ["Black", "Tan"],
+    "size": "Large",
+    "weight_kg": 38.0,
+    "image_url": "https://i.pinimg.com/736x/f0/62/47/f0624743737be6585001322bce964e25.jpg",
+    "description": "Loyal and protective, excellent guard dog. Highly intelligent and trainable.",
+    "microchip_id": "985112000000789",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-01-10",
+        "next_due_date": "2026-01-10"
+      },
+      {
+        "vaccine_name": "DHPP",
+        "date_administered": "2023-02-20",
+        "next_due_date": "2024-02-20"
+      }
+    ],
+    "temperament": ["Loyal", "Courageous", "Intelligent", "Confident"],
+    "known_allergies": ["Grain (mild sensitivity)"],
+    "behavioral_notes": [
+      "Requires consistent training and socialization. Can be wary of strangers if not properly introduced."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-DEF",
+      "name": "Alice Brown",
+      "contact_email": "alice.brown@example.com",
+      "contact_phone": "555-234-5678"
+    },
+    "registration_date": "2020-02-15T09:30:00Z",
+    "last_updated_date": "2024-05-15T11:00:00Z"
+  },
+  {
+    "id": "DOG-UUID-004",
+    "name": "Bella",
+    "breed": "Poodle (Standard)",
+    "date_of_birth": "2021-07-01",
+    "age_years": 3,
+    "gender": "Female",
+    "color": ["White"],
+    "size": "Large",
+    "weight_kg": 25.5,
+    "image_url": "https://perfectpetinsurance.co.uk/wp-content/uploads/2023/10/iStock-1398997260.jpg",
+    "description": "Elegant and intelligent, hypoallergenic coat. Enjoys agility and learning new tricks.",
+    "microchip_id": "985112000000012",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-08-10",
+        "next_due_date": "2026-08-10"
+      }
+    ],
+    "temperament": ["Intelligent", "Active", "Trainable", "Proud"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Requires regular grooming. Can be prone to separation anxiety if left alone for long periods."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-GHI",
+      "name": "Robert Green",
+      "contact_email": "robert.green@example.com",
+      "contact_phone": "555-345-6789"
+    },
+    "registration_date": "2021-09-01T14:00:00Z",
+    "last_updated_date": "2024-04-25T16:45:00Z"
+  },
+  {
+    "id": "DOG-UUID-005",
+    "name": "Charlie",
+    "breed": "Labrador Retriever",
+    "date_of_birth": "2022-09-12",
+    "age_years": 1,
+    "gender": "Male",
+    "color": ["Chocolate"],
+    "size": "Large",
+    "weight_kg": 30.1,
+    "image_url": "https://images.wagwalkingweb.com/media/daily_wag/blog_articles/hero/1670938235.1927571/fun-facts-about-labrador-retrievers.jpg",
+    "description": "Friendly, outgoing, and high-spirited. Loves swimming and playing with family.",
+    "microchip_id": "985112000000345",
+    "is_neutered_spayed": false,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-10-01",
+        "next_due_date": "2024-10-01"
+      },
+      {
+        "vaccine_name": "DHPP - Puppy Series 3",
+        "date_administered": "2022-12-20",
+        "next_due_date": "N/A (Series Complete)"
+      }
+    ],
+    "temperament": ["Outgoing", "Even-tempered", "Kind", "Agile"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Still in puppy phase, requires ongoing training for manners. Chews a lot if not given appropriate toys."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-JKL",
+      "name": "Maria Rodriguez",
+      "contact_email": "maria.r@example.com",
+      "contact_phone": "555-456-7890"
+    },
+    "registration_date": "2022-11-01T10:15:00Z",
+    "last_updated_date": "2024-06-03T08:30:00Z"
+  },
+  {
+    "id": "DOG-UUID-006",
+    "name": "Kiko",
+    "breed": "Shiba Inu",
+    "date_of_birth": "2021-03-25",
+    "age_years": 3,
+    "gender": "Female",
+    "color": ["Red Sesame"],
+    "size": "Small",
+    "weight_kg": 9.5,
+    "image_url": "https://media.istockphoto.com/id/1203500325/photo/cute-shiba-inu-in-the-park-grass.jpg?s=612x612&w=0&k=20&c=j2RwzPNek31N2KnUf2W2klr2PHdKopxbbdfykgRNUuM=",
+    "description": "Alert and agile with a spirited nature. Can be independent.",
+    "microchip_id": "985112000000501",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-04-15",
+        "next_due_date": "2026-04-15"
+      }
+    ],
+    "temperament": ["Alert", "Charming", "Keen", "Faithful"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Requires early socialization. Known for the 'Shiba scream' when displeased."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-MNO",
+      "name": "Kenji Tanaka",
+      "contact_email": "kenji.t@example.com",
+      "contact_phone": "555-500-5001"
+    },
+    "registration_date": "2021-06-01T12:00:00Z",
+    "last_updated_date": "2024-05-28T10:00:00Z"
+  },
+  {
+    "id": "DOG-UUID-007",
+    "name": "Oscar",
+    "breed": "Dachshund",
+    "date_of_birth": "2022-08-10",
+    "age_years": 1,
+    "gender": "Male",
+    "color": ["Black and Tan"],
+    "size": "Small",
+    "weight_kg": 7.0,
+    "image_url": "https://www.zooplus.co.uk/magazine/wp-content/uploads/2021/10/Miniature-dachshund-768x512.webp",
+    "description": "Playful and stubborn, loves to dig. Brave little dog.",
+    "microchip_id": "985112000000502",
+    "is_neutered_spayed": false,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Puppy Series Complete",
+        "date_administered": "2023-01-05",
+        "next_due_date": "N/A"
+      }
+    ],
+    "temperament": ["Clever", "Stubborn", "Playful", "Devoted"],
+    "known_allergies": ["Grass (seasonal)"],
+    "behavioral_notes": [
+      "Prone to back problems, avoid too much jumping. Can be difficult to house-train."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-PQR",
+      "name": "Sophie Muller",
+      "contact_email": "sophie.m@example.com",
+      "contact_phone": "555-500-5002"
+    },
+    "registration_date": "2022-10-15T15:30:00Z",
+    "last_updated_date": "2024-06-02T11:45:00Z"
+  },
+  {
+    "id": "DOG-UUID-008",
+    "name": "Rocky",
+    "breed": "Boxer",
+    "date_of_birth": "2020-12-01",
+    "age_years": 3,
+    "gender": "Male",
+    "color": ["Fawn"],
+    "size": "Large",
+    "weight_kg": 30.0,
+    "image_url": "https://media.graphassets.com/resize=height:404,width:938/output=format:webp/QZWnvmWJS6C3RpMYMgrW?width=938",
+    "description": "Fun-loving and energetic. Protective of family.",
+    "microchip_id": "985112000000503",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-01-20",
+        "next_due_date": "2026-01-20"
+      }
+    ],
+    "temperament": ["Bright", "Fun-Loving", "Active", "Loyal"],
+    "known_allergies": ["Wheat"],
+    "behavioral_notes": [
+      "Can be boisterous, needs regular exercise. Prone to some health issues."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-STU",
+      "name": "David Miller",
+      "contact_email": "david.m@example.com",
+      "contact_phone": "555-500-5003"
+    },
+    "registration_date": "2021-03-01T09:00:00Z",
+    "last_updated_date": "2024-05-25T14:20:00Z"
+  },
+  {
+    "id": "DOG-UUID-009",
+    "name": "Luna",
+    "breed": "Siberian Husky",
+    "date_of_birth": "2021-06-15",
+    "age_years": 3,
+    "gender": "Female",
+    "color": ["Black and White"],
+    "size": "Medium",
+    "weight_kg": 22.0,
+    "image_url": "https://ohmypetgrooming.in/wp-content/uploads/2025/01/Husky-Dog.webp",
+    "description": "Energetic and mischievous, loves to run. Beautiful blue eyes.",
+    "microchip_id": "985112000000504",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-07-01",
+        "next_due_date": "2026-07-01"
+      }
+    ],
+    "temperament": ["Outgoing", "Alert", "Gentle", "Friendly"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "High prey drive. Needs a secure yard as they are escape artists. Sheds a lot."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-VWX",
+      "name": "Emily Clark",
+      "contact_email": "emily.c@example.com",
+      "contact_phone": "555-500-5004"
+    },
+    "registration_date": "2021-08-20T16:00:00Z",
+    "last_updated_date": "2024-06-01T18:10:00Z"
+  },
+  {
+    "id": "DOG-UUID-010",
+    "name": "Cooper",
+    "breed": "Australian Shepherd",
+    "date_of_birth": "2022-04-01",
+    "age_years": 2,
+    "gender": "Male",
+    "color": ["Blue Merle"],
+    "size": "Medium",
+    "weight_kg": 24.0,
+    "image_url": "https://media.graphassets.com/resize=height:404,width:718/output=format:webp/hZk5pmWmSSemgotudPX6",
+    "description": "Intelligent and agile, excels at dog sports. Needs a job to do.",
+    "microchip_id": "985112000000505",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-05-10",
+        "next_due_date": "2026-05-10"
+      }
+    ],
+    "temperament": ["Smart", "Work-Oriented", "Exuberant", "Loyal"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Herding instincts can manifest as nipping at heels. Requires significant mental and physical stimulation."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-YZA",
+      "name": "Michael Brown",
+      "contact_email": "michael.b@example.com",
+      "contact_phone": "555-500-5005"
+    },
+    "registration_date": "2022-06-10T11:00:00Z",
+    "last_updated_date": "2024-05-29T09:30:00Z"
+  },
+  {
+    "id": "DOG-UUID-011",
+    "name": "Gigi",
+    "breed": "Pomeranian",
+    "date_of_birth": "2023-01-05",
+    "age_years": 1,
+    "gender": "Female",
+    "color": ["Orange Sable"],
+    "size": "Toy",
+    "weight_kg": 2.5,
+    "image_url": "https://media.istockphoto.com/id/1276949137/photo/portrait-of-cute-pomeranian-dog-at-the-park.jpg?s=612x612&w=0&k=20&c=mXKKJbnKpPgLZYr7BwRlHDfqI4ANdq6_3CmknA1mQcc=",
+    "description": "Lively and bold, a tiny dog with a big personality. Very fluffy.",
+    "microchip_id": "985112000000506",
+    "is_neutered_spayed": false,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Puppy Series Complete",
+        "date_administered": "2023-05-15",
+        "next_due_date": "N/A"
+      }
+    ],
+    "temperament": ["Inquisitive", "Bold", "Lively", "Sociable"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Can be yappy. Prone to dental issues. Requires regular grooming."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-BCD",
+      "name": "Olivia Wilson",
+      "contact_email": "olivia.w@example.com",
+      "contact_phone": "555-500-5006"
+    },
+    "registration_date": "2023-03-10T10:00:00Z",
+    "last_updated_date": "2024-06-03T14:00:00Z"
+  },
+  {
+    "id": "DOG-UUID-012",
+    "name": "Teddy",
+    "breed": "Yorkshire Terrier",
+    "date_of_birth": "2022-10-20",
+    "age_years": 1,
+    "gender": "Male",
+    "color": ["Blue and Tan"],
+    "size": "Toy",
+    "weight_kg": 3.0,
+    "image_url": "https://content.lyka.com.au/f/1016262/5510x3673/aeaa1f4c4c/yorkshire-terrier-puppy.jpeg/m/1280x0/filters:format(webp)",
+    "description": "Sprightly and tomboyish. A small dog with a big attitude.",
+    "microchip_id": "985112000000507",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-11-25",
+        "next_due_date": "2024-11-25"
+      }
+    ],
+    "temperament": ["Brave", "Determined", "Spirited", "Intelligent"],
+    "known_allergies": ["Certain food dyes"],
+    "behavioral_notes": [
+      "Can be difficult to housebreak. Their fine hair requires regular grooming."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-EFG",
+      "name": "James Anderson",
+      "contact_email": "james.a@example.com",
+      "contact_phone": "555-500-5007"
+    },
+    "registration_date": "2023-01-05T13:15:00Z",
+    "last_updated_date": "2024-05-20T12:00:00Z"
+  },
+  {
+    "id": "DOG-UUID-013",
+    "name": "Winston",
+    "breed": "Bulldog",
+    "date_of_birth": "2021-09-01",
+    "age_years": 2,
+    "gender": "Male",
+    "color": ["Brindle and White"],
+    "size": "Medium",
+    "weight_kg": 22.0,
+    "image_url": "https://www.thesprucepets.com/thmb/zXkzVVV5P8h2JG0ZUFtXtvIq-lM=/3600x0/filters:no_upscale():strip_icc()/bulldog-4584344-hero-8b60f1e867f046e792ba092eec669256.jpg",
+    "description": "Calm and courageous, but can be stubborn. Known for their distinctive look.",
+    "microchip_id": "985112000000508",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-10-10",
+        "next_due_date": "2026-10-10"
+      }
+    ],
+    "temperament": ["Docile", "Willful", "Friendly", "Gregarious"],
+    "known_allergies": ["Skin allergies (seasonal)"],
+    "behavioral_notes": [
+      "Prone to overheating. Requires regular cleaning of facial wrinkles. Can be gassy."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-HIJ",
+      "name": "Patricia Thomas",
+      "contact_email": "patricia.t@example.com",
+      "contact_phone": "555-500-5008"
+    },
+    "registration_date": "2021-11-15T17:00:00Z",
+    "last_updated_date": "2024-06-02T08:50:00Z"
+  },
+  {
+    "id": "DOG-UUID-014",
+    "name": "Xena",
+    "breed": "Rottweiler",
+    "date_of_birth": "2020-07-15",
+    "age_years": 3,
+    "gender": "Female",
+    "color": ["Black and Mahogany"],
+    "size": "Large",
+    "weight_kg": 40.0,
+    "image_url": "https://spotpetinsurance.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fm5ehn3s5t7ec%2Fwp-image-199681%2F2d5570e7f0e4b1eaee1ee0ca7ac8d553%2FRottweiler.jpeg&w=3840&q=75",
+    "description": "Confident and courageous, a natural guard dog. Loyal to family.",
+    "microchip_id": "985112000000509",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-08-01",
+        "next_due_date": "2026-08-01"
+      }
+    ],
+    "temperament": ["Good-Natured", "Devoted", "Obedient", "Courageous"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Requires experienced owner and consistent training. Can be dominant if not properly managed."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-KLM",
+      "name": "Christopher Jackson",
+      "contact_email": "chris.j@example.com",
+      "contact_phone": "555-500-5009"
+    },
+    "registration_date": "2020-09-20T09:45:00Z",
+    "last_updated_date": "2024-05-18T15:00:00Z"
+  },
+  {
+    "id": "DOG-UUID-015",
+    "name": "Shih Tzu",
+    "breed": "Shih Tzu",
+    "date_of_birth": "2022-05-01",
+    "age_years": 2,
+    "gender": "Male",
+    "color": ["Gold and White"],
+    "size": "Small",
+    "weight_kg": 6.5,
+    "image_url": "https://patmypets.com/wp-content/uploads/2021/11/are-shih-tzu.jpg",
+    "description": "Affectionate and outgoing. A happy lap dog.",
+    "microchip_id": "985112000000510",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-06-01",
+        "next_due_date": "2026-06-01"
+      }
+    ],
+    "temperament": ["Affectionate", "Outgoing", "Playful", "Clever"],
+    "known_allergies": ["Dust mites"],
+    "behavioral_notes": [
+      "Requires regular grooming to prevent matting. Can be prone to brachycephalic issues."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-NOP",
+      "name": "Jessica Lee",
+      "contact_email": "jessica.l@example.com",
+      "contact_phone": "555-500-5010"
+    },
+    "registration_date": "2022-07-10T14:30:00Z",
+    "last_updated_date": "2024-05-30T11:20:00Z"
+  },
+  {
+    "id": "DOG-UUID-016",
+    "name": "Zeus",
+    "breed": "Dobermann",
+    "date_of_birth": "2021-11-10",
+    "age_years": 2,
+    "gender": "Male",
+    "color": ["Black and Rust"],
+    "size": "Large",
+    "weight_kg": 35.0,
+    "image_url": "https://www.dogster.com/wp-content/uploads/2022/04/doberman-dog-in-late-autumn_elis_aksenova_Shutterstock.jpg",
+    "description": "Alert, fearless, and loyal. An intelligent and powerful dog.",
+    "microchip_id": "985112000000511",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-12-15",
+        "next_due_date": "2026-12-15"
+      }
+    ],
+    "temperament": ["Loyal", "Fearless", "Alert", "Energetic"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Needs consistent training and socialization from an early age. Can be protective."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-QRS",
+      "name": "Kevin Harris",
+      "contact_email": "kevin.h@example.com",
+      "contact_phone": "555-500-5011"
+    },
+    "registration_date": "2022-01-20T10:00:00Z",
+    "last_updated_date": "2024-05-22T16:00:00Z"
+  },
+  {
+    "id": "DOG-UUID-017",
+    "name": "Daisy",
+    "breed": "Great Dane",
+    "date_of_birth": "2022-02-20",
+    "age_years": 2,
+    "gender": "Female",
+    "color": ["Harlequin"],
+    "size": "Giant",
+    "weight_kg": 60.0,
+    "image_url": "https://images.happypet.care/images/20950/black-great-dane-standing.webp",
+    "description": "A gentle giant, friendly and dependable. Surprisingly graceful for their size.",
+    "microchip_id": "985112000000512",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-03-25",
+        "next_due_date": "2026-03-25"
+      }
+    ],
+    "temperament": ["Friendly", "Patient", "Dependable", "Loving"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Shorter lifespan than smaller breeds. Prone to bloat; requires careful feeding practices."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-TUV",
+      "name": "Sarah Martin",
+      "contact_email": "sarah.m@example.com",
+      "contact_phone": "555-500-5012"
+    },
+    "registration_date": "2022-05-01T11:30:00Z",
+    "last_updated_date": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": "DOG-UUID-018",
+    "name": "Finn",
+    "breed": "Border Collie",
+    "date_of_birth": "2023-03-01",
+    "age_years": 1,
+    "gender": "Male",
+    "color": ["Black and White"],
+    "size": "Medium",
+    "weight_kg": 18.0,
+    "image_url": "https://www.dogster.com/wp-content/uploads/2024/03/Beautiful-Rough-Collies.jpg",
+    "description": "Exceptionally intelligent and energetic. Needs a lot of mental and physical activity.",
+    "microchip_id": "985112000000513",
+    "is_neutered_spayed": false,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Puppy Series Complete",
+        "date_administered": "2023-07-10",
+        "next_due_date": "N/A"
+      }
+    ],
+    "temperament": ["Tenacious", "Keen", "Responsive", "Intelligent"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Strong herding instincts. Not suited for inactive families. Can become destructive if bored."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-WXY",
+      "name": "Laura Davis",
+      "contact_email": "laura.d@example.com",
+      "contact_phone": "555-500-5013"
+    },
+    "registration_date": "2023-05-10T08:00:00Z",
+    "last_updated_date": "2024-05-28T17:00:00Z"
+  },
+  {
+    "id": "DOG-UUID-019",
+    "name": "Lady",
+    "breed": "Cavalier King Charles Spaniel",
+    "date_of_birth": "2022-07-15",
+    "age_years": 1,
+    "gender": "Female",
+    "color": ["Blenheim (Chestnut and White)"],
+    "size": "Small",
+    "weight_kg": 7.5,
+    "image_url": "https://cdn.britannica.com/37/233237-050-14563F54/Cavalier-King-Charles-Spaniel-dog.jpg",
+    "description": "Affectionate, graceful, and gentle. A true companion dog.",
+    "microchip_id": "985112000000514",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-08-20",
+        "next_due_date": "2024-08-20"
+      }
+    ],
+    "temperament": ["Fearless", "Affectionate", "Sociable", "Patient"],
+    "known_allergies": ["Mitral Valve Disease (breed predisposition)"],
+    "behavioral_notes": [
+      "Loves to be with people. Prone to certain heart conditions; regular vet check-ups are important."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-ZAB",
+      "name": "Karen White",
+      "contact_email": "karen.w@example.com",
+      "contact_phone": "555-500-5014"
+    },
+    "registration_date": "2022-09-20T16:30:00Z",
+    "last_updated_date": "2024-06-03T10:15:00Z"
+  },
+  {
+    "id": "DOG-UUID-020",
+    "name": "Otis",
+    "breed": "Pug",
+    "date_of_birth": "2021-05-20",
+    "age_years": 3,
+    "gender": "Male",
+    "color": ["Fawn"],
+    "size": "Small",
+    "weight_kg": 8.0,
+    "image_url": "https://media.istockphoto.com/id/842814768/photo/mops-dog.jpg?s=612x612&w=0&k=20&c=1eJxysSL6BU19aoVpJY_KzMIk3JBMx0wHu8VuGk3cXg=",
+    "description": "Charming, mischievous, and loving. A lot of dog in a small space.",
+    "microchip_id": "985112000000515",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-06-25",
+        "next_due_date": "2026-06-25"
+      }
+    ],
+    "temperament": ["Charming", "Clever", "Sociable", "Stubborn"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Prone to breathing problems due to brachycephalic face. Can be greedy eaters."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-CDE",
+      "name": "Daniel Garcia",
+      "contact_email": "daniel.g@example.com",
+      "contact_phone": "555-500-5015"
+    },
+    "registration_date": "2021-07-25T10:45:00Z",
+    "last_updated_date": "2024-05-27T13:30:00Z"
+  },
+  {
+    "id": "DOG-UUID-021",
+    "name": "Peanut",
+    "breed": "Chihuahua",
+    "date_of_birth": "2023-02-10",
+    "age_years": 1,
+    "gender": "Female",
+    "color": ["Fawn"],
+    "size": "Toy",
+    "weight_kg": 2.0,
+    "image_url": "https://apupabove.com/cdn/shop/articles/Chihuahua_2ab3f5c4-9781-48ed-8119-7f780902c133.jpg?v=1742407300&width=1600",
+    "description": "Graceful, alert, and swift-moving with a saucy expression. Tiny but mighty.",
+    "microchip_id": "985112000000516",
+    "is_neutered_spayed": false,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Puppy Series Complete",
+        "date_administered": "2023-06-15",
+        "next_due_date": "N/A"
+      }
+    ],
+    "temperament": ["Alert", "Courageous", "Lively", "Devoted"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Can be fragile, handle with care. May develop 'small dog syndrome' if not properly trained."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-FGH",
+      "name": "Ashley Martinez",
+      "contact_email": "ashley.m@example.com",
+      "contact_phone": "555-500-5016"
+    },
+    "registration_date": "2023-04-15T09:00:00Z",
+    "last_updated_date": "2024-06-01T11:00:00Z"
+  },
+  {
+    "id": "DOG-UUID-022",
+    "name": "Pierre",
+    "breed": "French Bulldog",
+    "date_of_birth": "2022-06-01",
+    "age_years": 2,
+    "gender": "Male",
+    "color": ["Brindle"],
+    "size": "Small",
+    "weight_kg": 12.0,
+    "image_url": "https://image.petmd.com/files/styles/863x625/public/2022-10/french-bulldog.jpeg",
+    "description": "Playful, alert, and adaptable. A charming companion with distinctive bat ears.",
+    "microchip_id": "985112000000517",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-07-05",
+        "next_due_date": "2026-07-05"
+      }
+    ],
+    "temperament": ["Playful", "Smart", "Adaptable", "Affectionate"],
+    "known_allergies": ["Chicken, Beef"],
+    "behavioral_notes": [
+      "Prone to brachycephalic issues and skin allergies. Not strong swimmers."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-IJK",
+      "name": "Brian Robinson",
+      "contact_email": "brian.r@example.com",
+      "contact_phone": "555-500-5017"
+    },
+    "registration_date": "2022-08-10T14:00:00Z",
+    "last_updated_date": "2024-05-25T09:15:00Z"
+  },
+  {
+    "id": "DOG-UUID-023",
+    "name": "Coco",
+    "breed": "Cocker Spaniel",
+    "date_of_birth": "2021-08-10",
+    "age_years": 2,
+    "gender": "Female",
+    "color": ["Black"],
+    "size": "Medium",
+    "weight_kg": 13.0,
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/spaniel-breeds-6605354108dd6.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
+    "description": "Gentle, affectionate, and cheerful. Known for their beautiful, flowing coat.",
+    "microchip_id": "985112000000518",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-09-15",
+        "next_due_date": "2026-09-15"
+      }
+    ],
+    "temperament": ["Merry", "Gentle", "Affectionate", "Optimistic"],
+    "known_allergies": ["Ear infections (prone due to floppy ears)"],
+    "behavioral_notes": [
+      "Requires regular grooming, especially ears. Can suffer from separation anxiety."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-LMN",
+      "name": "Nancy Clark",
+      "contact_email": "nancy.c@example.com",
+      "contact_phone": "555-500-5018"
+    },
+    "registration_date": "2021-10-15T10:30:00Z",
+    "last_updated_date": "2024-05-28T12:45:00Z"
+  },
+  {
+    "id": "DOG-UUID-024",
+    "name": "Droopy",
+    "breed": "Basset Hound",
+    "date_of_birth": "2020-10-05",
+    "age_years": 3,
+    "gender": "Male",
+    "color": ["Tricolor"],
+    "size": "Medium",
+    "weight_kg": 25.0,
+    "image_url": "https://cdn.britannica.com/14/29814-050-1FFE0096/Basset-hound.jpg",
+    "description": "Charming, patient, and low-key. Famous for their long ears and mournful expression.",
+    "microchip_id": "985112000000519",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-11-10",
+        "next_due_date": "2026-11-10"
+      }
+    ],
+    "temperament": [
+      "Charming",
+      "Patient",
+      "Good-Natured",
+      "Tenacious (on a scent)"
+    ],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Prone to drooling and can be stubborn with training. Their long ears need regular cleaning."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-OPQ",
+      "name": "George Lewis",
+      "contact_email": "george.l@example.com",
+      "contact_phone": "555-500-5019"
+    },
+    "registration_date": "2020-12-10T15:00:00Z",
+    "last_updated_date": "2024-06-02T14:20:00Z"
+  },
+  {
+    "id": "DOG-UUID-025",
+    "name": "Pongo",
+    "breed": "Dalmatian",
+    "date_of_birth": "2022-03-10",
+    "age_years": 2,
+    "gender": "Male",
+    "color": ["White with Black Spots"],
+    "size": "Large",
+    "weight_kg": 26.0,
+    "image_url": "https://media.dog-learn.com/images/dalmatian-sz4.jpg",
+    "description": "Dignified, smart, and outgoing. Famous for their unique spots.",
+    "microchip_id": "985112000000520",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-04-15",
+        "next_due_date": "2026-04-15"
+      }
+    ],
+    "temperament": ["Dignified", "Smart", "Outgoing", "Active"],
+    "known_allergies": ["Prone to deafness (breed characteristic)"],
+    "behavioral_notes": [
+      "High energy, needs lots of exercise. Can be prone to urinary stones."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-RST",
+      "name": "Linda Walker",
+      "contact_email": "linda.w@example.com",
+      "contact_phone": "555-500-5020"
+    },
+    "registration_date": "2022-05-15T11:00:00Z",
+    "last_updated_date": "2024-05-30T10:00:00Z"
+  },
+  {
+    "id": "DOG-UUID-026",
+    "name": "Bernie",
+    "breed": "Bernese Mountain Dog",
+    "date_of_birth": "2021-01-20",
+    "age_years": 3,
+    "gender": "Male",
+    "color": ["Tricolor (Black, Rust, White)"],
+    "size": "Giant",
+    "weight_kg": 48.0,
+    "image_url": "https://dogtime.com/wp-content/uploads/sites/12/2018/11/GettyImages-84049156.jpg?w=1024",
+    "description": "Good-natured, calm, and strong. A striking, tri-colored gentle giant.",
+    "microchip_id": "985112000000521",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-02-25",
+        "next_due_date": "2026-02-25"
+      }
+    ],
+    "temperament": ["Good-Natured", "Calm", "Strong", "Affectionate"],
+    "known_allergies": ["Heat sensitive"],
+    "behavioral_notes": [
+      "Shorter lifespan. Prone to certain cancers and joint issues. Sheds significantly."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-UVW",
+      "name": "Mark Hall",
+      "contact_email": "mark.h@example.com",
+      "contact_phone": "555-500-5021"
+    },
+    "registration_date": "2021-03-25T09:30:00Z",
+    "last_updated_date": "2024-05-26T15:45:00Z"
+  },
+  {
+    "id": "DOG-UUID-027",
+    "name": "Hachi",
+    "breed": "Akita",
+    "date_of_birth": "2020-09-10",
+    "age_years": 3,
+    "gender": "Male",
+    "color": ["Red Fawn"],
+    "size": "Large",
+    "weight_kg": 45.0,
+    "image_url": "https://images.unsplash.com/photo-1509119993276-d691aff73209?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fEFraXRhJTIwfGVufDB8fHx8MTY4ODM5NzQ5NXww&ixlib=rb-4.0.3&q=80&w=2000",
+    "description": "Courageous, dignified, and profoundly loyal. Can be wary of strangers.",
+    "microchip_id": "985112000000522",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-10-15",
+        "next_due_date": "2026-10-15"
+      }
+    ],
+    "temperament": ["Courageous", "Dignified", "Loyal", "Alert"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Requires experienced owner. Can be aggressive towards other dogs, especially of the same sex."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-XYZ",
+      "name": "Yuki Sato",
+      "contact_email": "yuki.s@example.com",
+      "contact_phone": "555-500-5022"
+    },
+    "registration_date": "2020-11-15T14:00:00Z",
+    "last_updated_date": "2024-05-20T10:10:00Z"
+  },
+  {
+    "id": "DOG-UUID-028",
+    "name": "Beethoven",
+    "breed": "St. Bernard",
+    "date_of_birth": "2022-01-01",
+    "age_years": 2,
+    "gender": "Male",
+    "color": ["White with Reddish-Brown Patches"],
+    "size": "Giant",
+    "weight_kg": 70.0,
+    "image_url": "https://image.petmd.com/files/inline-images/saint-bernard-puppy.jpg?VersionId=A2MxBe4byGK826YGDTTAZvwMSyhhticR",
+    "description": "Playful, charming, and inquisitive. A famously large and lovable breed.",
+    "microchip_id": "985112000000523",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-02-05",
+        "next_due_date": "2026-02-05"
+      }
+    ],
+    "temperament": ["Friendly", "Patient", "Gentle", "Watchful"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "Drools a lot. Prone to heatstroke and joint problems. Needs space."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-123",
+      "name": "Angela Young",
+      "contact_email": "angela.y@example.com",
+      "contact_phone": "555-500-5023"
+    },
+    "registration_date": "2022-03-05T12:30:00Z",
+    "last_updated_date": "2024-06-03T15:00:00Z"
+  },
+  {
+    "id": "DOG-UUID-029",
+    "name": "Ghost",
+    "breed": "Weimaraner",
+    "date_of_birth": "2021-07-10",
+    "age_years": 2,
+    "gender": "Male",
+    "color": ["Mouse-Grey"],
+    "size": "Large",
+    "weight_kg": 32.0,
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Weimaraner-running-into-water.jpg",
+    "description": "Fearless, friendly, and obedient. Known as the 'Grey Ghost'.",
+    "microchip_id": "985112000000524",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-08-15",
+        "next_due_date": "2026-08-15"
+      }
+    ],
+    "temperament": ["Fearless", "Friendly", "Obedient", "Alert"],
+    "known_allergies": ["None known"],
+    "behavioral_notes": [
+      "High energy, requires vigorous exercise. Can suffer from separation anxiety."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-456",
+      "name": "Steven Allen",
+      "contact_email": "steven.a@example.com",
+      "contact_phone": "555-500-5024"
+    },
+    "registration_date": "2021-09-15T10:00:00Z",
+    "last_updated_date": "2024-05-29T14:30:00Z"
+  },
+  {
+    "id": "DOG-UUID-030",
+    "name": "Flash",
+    "breed": "Greyhound",
+    "date_of_birth": "2020-04-01",
+    "age_years": 4,
+    "gender": "Male",
+    "color": ["Brindle"],
+    "size": "Large",
+    "weight_kg": 30.0,
+    "image_url": "https://www.oliverpetcare.com/wp-content/uploads/2023/04/greyhound.jpg",
+    "description": "Gentle, independent, and noble. Surprisingly a couch potato indoors.",
+    "microchip_id": "985112000000525",
+    "is_neutered_spayed": true,
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date_administered": "2023-05-05",
+        "next_due_date": "2026-05-05"
+      }
+    ],
+    "temperament": ["Gentle", "Independent", "Noble", "Quiet"],
+    "known_allergies": ["Sensitive to certain anesthetics"],
+    "behavioral_notes": [
+      "High prey drive, must be leashed in unfenced areas. Surprisingly low exercise needs for a sprinter."
+    ],
+    "owner_info": {
+      "owner_id": "OWNER-UUID-789",
+      "name": "Brenda King",
+      "contact_email": "brenda.k@example.com",
+      "contact_phone": "555-500-5025"
+    },
+    "registration_date": "2020-06-05T16:00:00Z",
+    "last_updated_date": "2024-05-21T11:50:00Z"
+  }
+]
